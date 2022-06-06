@@ -1,0 +1,15 @@
+#form input element attributes
+1.value
+2.readonly
+3.disabled
+4.size
+5.maxlength
+6.min & maxlength
+7.multiple
+8.pattern
+9.placeholder
+10.required
+11.step
+12.autofocus
+13.list
+14.autocomplete

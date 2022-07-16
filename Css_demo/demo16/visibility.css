@@ -1,0 +1,15 @@
+.demo{
+    background-color: aquamarine;
+    display: none;
+}
+#tut{
+    background-color: bisque;
+}
+.demo1{
+    background-color: aquamarine;
+    visibility: hidden;
+}
+.demo3{
+    background-color: aquamarine;
+    display: inline;
+}

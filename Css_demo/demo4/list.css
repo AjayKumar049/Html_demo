@@ -1,0 +1,19 @@
+ul{
+    list-style-type: none;
+    font-size: larger;
+    
+}
+ol{
+    list-style-type: square;
+    font-size: larger;
+}
+ul li{
+    list-style-position: inside;
+    background-color: aqua;
+    padding: 20px;
+}
+ol li{
+    list-style-position: outside;
+    background-color: brown;
+    padding: 30px;
+}

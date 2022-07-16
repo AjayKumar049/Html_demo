@@ -1,0 +1,42 @@
+In css color name can be defined in 4 ways:
+1.Using color name
+2.Using RGB & RGBA
+3.Using HEX Code
+4.Using HSL & HSLA
+RGB: It is stands for red,green & blue.
+RGB can be specified below formats
+rgb(red,green,blue)
+Each value given to red,green & blue defines the intensity of color between 0 & 255.
+RGBA
+RGBA: It is stands for red,green & blue.
+RGB can be specified below formats
+rgba(red,green,blue,alpha)
+Alpha ranges between 0.0-1.0
+0.0-fully transparent
+1.0-not transparent at all.
+HEX
+HEX can be specified below formats
+#rrggbb
+rr-red, gg-green, bb-blue:Takes value between 0-9 & a-f.
+HSL
+It is stands for : Hue,saturation,& Lightness.
+Hue is degree on the color wheel from 0 to 360
+0 or 360 degree is red
+120 degree is green
+240 degree is blue
+saturation can be described as intensity of color
+0% means- shade of gray
+100% means- Full color
+Lightness is also %
+0% is black
+100% is white
+HSLA
+It is stands for : Hue,saturation,& Lightness.
+hsla(Hue,saturation, Lightness,alpha)
+alpha ranges between 0.0-1.0
+0.0-fully transparent
+1.0-not transparent at all.
+
+
+
+

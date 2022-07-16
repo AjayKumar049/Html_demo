@@ -1,0 +1,21 @@
+Css borders:
+            To apply border to html element we need to use css borders properties.
+            Css borders properties
+            border-width
+            border-style
+            border-color
+            border-style:
+                        solid
+                        dashed
+                        dotted
+                        double
+                        groove
+                        ridge
+                        insert
+                        outset
+                        none
+                        hidden
+            Shorthand properties:
+                    border: border-width border-style border-color
+        Rounded Corners:
+                Use border-radius properties to get rounded corners.

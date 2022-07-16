@@ -1,0 +1,6 @@
+Pesudo Selector:
+Pesudo Selector are used to define a special state of an element.
+Example:
+        When we move move mouse over button, change background colour.
+        Add styles when we focus an input field.
+        

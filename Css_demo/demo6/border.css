@@ -1,0 +1,15 @@
+p{
+    border-width: 3px;
+    border-style: dotted;
+    border-color: blueviolet;
+    padding: 15px;
+}
+div{
+    border: 4px solid rgb(43, 226, 86);
+    padding: 15px;
+}
+#demo{
+    border: 2px snow blue;
+    padding: 15px;
+    border-radius: 10px;
+}

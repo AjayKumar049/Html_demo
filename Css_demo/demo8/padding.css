@@ -1,0 +1,19 @@
+.demo1{
+    border: 2px solid blueviolet;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+}
+.demo2{
+    border: 2px solid blueviolet;
+    padding: 20px 40px 60px;
+}
+.demo3{
+    border: 2px solid blueviolet;
+    padding: 20px 40px;
+}
+.demo4{
+    border: 2px solid blueviolet;
+    padding: 20px;
+}

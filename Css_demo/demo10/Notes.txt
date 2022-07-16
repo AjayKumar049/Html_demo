@@ -1,0 +1,32 @@
+The cursor property of CSS allows you to specify the type of cursor that should be displayed to the user.
+cursor :
+    auto:
+    Shape of the cursor depends on the context area it is over. For example an I over text, a hand over a link, and so on...
+	crosshair:
+    A crosshair or plus sign
+    default:
+    An arrow
+    pointer:
+    A pointing hand (in IE 4 this value is hand)
+    move:
+    The I bar
+    e-resize:
+    The cursor indicates that an edge of a box is to be moved right (east)
+    ne-resize:
+    The cursor indicates that an edge of a box is to be moved up and right (north/east)
+    se-resize:
+    The cursor indicates that an edge of a box is to be moved down and right (south/east)
+    sw-resize:
+    The cursor indicates that an edge of a box is to be moved down and left (south/west)
+    s-resize:
+    The cursor indicates that an edge of a box is to be moved down (south)
+    w-resize:
+    The cursor indicates that an edge of a box is to be moved left (west)
+    text:
+    The I bar
+    wait:
+    An hour glass
+    help:
+    A question mark or balloon, ideal for use over help buttons
+    url:
+    The source of a cursor image file
